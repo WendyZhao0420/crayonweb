@@ -1,0 +1,122 @@
+title{
+    font-size:65pt;
+    color:brown
+}
+
+
+p{
+    font-size:20pt;
+    color:sienna
+}
+a{ 
+    color:dodgerblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1{
+    font-size:45pt;
+    color:black
+}
+h2{
+    font-size:45pt;
+    color:orange
+}
+body{
+    background-color:antiquewhite;
+    width : 75%;
+    margin:auto;
+   
+}
+li{
+    font-size:35pt;
+    color:hotpink
+}
+img{
+   
+    width: 50%;
+    float:left;
+    border:10px solid palegreen;
+    padding-left: 10px;
+    margin-right: 20px;
+}
+.shin {
+    clear:both;
+   
+}
+.mom{
+    clear:both;
+}
+.Toru {
+    clear:both;
+}
+.dad{
+    clear:both;
+}
+.sato {
+    clear:both;
+}
+.nene {
+    clear:both;
+}
+.bo {
+    clear:both;
+}
+.bg{
+    clear:both;
+}
+.wt{
+    clear:both;
+}
+.v{
+    clear:both;
+}
+header ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:mistyrose;
+  }
+  
+  header li {
+    float: left;
+  }
+  
+  header li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  header li a:hover:not(.active) {
+    background-color:lightseagreen;
+  }
+  
+  header .active {
+    background-color:orange;
+  }
+  h1.pt-serif-regular {
+    font-family: "PT Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  h1.pt-serif-bold {
+    font-family: "PT Serif", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  h1.pt-serif-regular-italic {
+    font-family: "PT Serif", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  h1.pt-serif-bold-italic {
+    font-family: "PT Serif", serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
